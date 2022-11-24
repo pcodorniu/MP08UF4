@@ -1,6 +1,6 @@
 # ACTIVITAT MOODLE 
 
-## INSTAL·LACIÓ DEL MOODLE
+### INSTAL·LACIÓ DEL MOODLE
 
 Anem a la pàgina oficial de Moodle i descarguem l'ultima versió.
 ![image](https://user-images.githubusercontent.com/114162276/203820107-1f21f59e-2150-4eb3-aecd-5a6752feb6d8.png)
@@ -17,7 +17,7 @@ sudo apt-get update
 ```
 ![image](https://user-images.githubusercontent.com/114162276/203821696-6aba8508-0a4a-4c4b-bd9a-1411d237090e.png)
 
-## INSTAL·LEM L'APACHE
+### INSTAL·LEM L'APACHE
 
 Instal·lem l'Apache
 ```
@@ -25,7 +25,7 @@ sudo apt-get install apache2
 ```
 ![image](https://user-images.githubusercontent.com/114162276/203822015-99774938-b499-48e3-aded-be6a4b4d578b.png)
 
-## INSTAL·LEM EL MARIADB
+### INSTAL·LEM EL MARIADB
 
 Instal·lem el MariaDB
 ```
@@ -54,14 +54,24 @@ sudo aptitude install php7.3 php7.3-mysql php7.3-intl php7.3-curl php7.3-xml php
 ```
 ![image](https://user-images.githubusercontent.com/114162276/203827179-9031d5a4-19b1-427e-b9fd-4b17fe0edb95.png)
 
+Ara canviarem la prioritat del fitxer php a la configuració de Apache per a que ens mostri primer el **index.php** i no el **index.html**
+```
+sudo nano /etc/apache2/mods-enabled/dir.conf
 
+```
+![image](https://user-images.githubusercontent.com/114162276/203828797-c3bd5929-c128-4f6b-bf00-9c2a7880d669.png)
 
+Per a que els canvis es guarden tenim que reiniciar el servidor Apache
+```
+sudo service apache2 restart
+```
+![image](https://user-images.githubusercontent.com/114162276/203829161-1cb31e5d-9fd7-45c2-84d4-0d68c8987ce2.png)
 
-
-
-
-
-
+Comprovem el seu estat
+```
+sudo service apache2 status
+```
+![image](https://user-images.githubusercontent.com/114162276/203829294-ed6c6519-f052-4fe3-b8c0-af56212c924c.png)
 
 
 
