@@ -149,7 +149,10 @@ FLUSH PRIVILEGES;
 ![image](https://user-images.githubusercontent.com/114162276/203845952-5bc093b4-255c-4e6e-aebc-e699f766b7fb.png)
 
 
+### CONFIGURAR MOODLE
 
+Obrim el navegador i al buscador posem **localhost/moodle** o **IP de la maquina/moodle** i ens apareixera el següent
+![image](https://user-images.githubusercontent.com/114162276/203846190-2383a429-2eb5-4445-8d09-11121e2bcdd4.png)
 
 
 
