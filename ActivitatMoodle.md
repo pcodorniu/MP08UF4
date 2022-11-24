@@ -126,14 +126,27 @@ Accedim a la base de dades
 ```
 mysql -u root -p
 ```
+![image](https://user-images.githubusercontent.com/114162276/203845258-82dae297-a282-4783-b283-077a3b88de33.png)
 
+Crea un usuari per al Moodle
+```
+CREATE USER 'moodlemanager'@'localhost' IDENTIFIED BY 'managermoodle';
+```
+![image](https://user-images.githubusercontent.com/114162276/203845440-70173dd7-637d-46c4-aeab-60ad0726d58f.png)
 
+Creem la base de dades per a l'us del moodle
 
+```
+CREATE DATABASE moodle;
+```
+![image](https://user-images.githubusercontent.com/114162276/203845671-fd7c0aaa-5019-4ad2-b6da-8ca25ef49a9a.png)
 
-
-
-
-
+Finalment concedeix control sobre la base de dades moodle a l'usuari que hem creat anteriorment 
+```
+GRANT ALL PRIVILEGES ON moodle.* TO 'moodlemanager'@'localhost';
+FLUSH PRIVILEGES;
+```
+![image](https://user-images.githubusercontent.com/114162276/203845952-5bc093b4-255c-4e6e-aebc-e699f766b7fb.png)
 
 
 
