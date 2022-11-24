@@ -86,7 +86,11 @@ Dins del fitxer escrivim la següent linia
 Si afegim a la barra del buscada **localhost** o **la IP de la maquina** ens apareixera lo següent
 ![image](https://user-images.githubusercontent.com/114162276/203831706-d82f45e0-36a4-4ff6-b833-699529a7453c.png)
 
-
+Per seguretat borrem l'arxiu que hem creat anteriorment
+```
+sudo rm  /var/www/html/index.php
+```
+![image](https://user-images.githubusercontent.com/114162276/203832217-b8a050ad-3c77-4e36-a7ab-a6219a453cd3.png)
 
 
 
