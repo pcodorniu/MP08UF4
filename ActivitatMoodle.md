@@ -73,8 +73,18 @@ sudo service apache2 status
 ```
 ![image](https://user-images.githubusercontent.com/114162276/203829294-ed6c6519-f052-4fe3-b8c0-af56212c924c.png)
 
+El apache esta actiu pero ho comprovarem d'una altra manera per a assegurar-nos millo, creem un fitxer a **/var/www/html/** amb el nom de index.php
+```
+sudo nano /var/www/html/index.php
+```
+Dins del fitxer escrivim la següent linia
+```
+<?php phpinfo(); ?>
+```
+![image](https://user-images.githubusercontent.com/114162276/203831281-397a7262-9bc0-4f29-9488-ca2ce53b852b.png)
 
-
+Si afegim a la barra del buscada **localhost** o **la IP de la maquina** ens apareixera lo següent
+![image](https://user-images.githubusercontent.com/114162276/203831706-d82f45e0-36a4-4ff6-b833-699529a7453c.png)
 
 
 
