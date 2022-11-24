@@ -1,22 +1,5 @@
 # ACTIVITAT MOODLE 
 
-### INSTAL·LACIÓ DEL MOODLE
-
-Anem a la pàgina oficial de Moodle i descarguem l'ultima versió.
-![image](https://user-images.githubusercontent.com/114162276/203820107-1f21f59e-2150-4eb3-aecd-5a6752feb6d8.png)
-
-Posem al terminal la següent comanda per a instal·lar el Moodle 
-```
-wget https://download.moodle.org/download.php/direct/stable400/moodle-latest-400.zip
-```
-![image](https://user-images.githubusercontent.com/114162276/203820522-1ccd1e3d-6afa-4f36-a36b-1da103f67b67.png)
-
-Actualitzem tots els paquets del sistema
-```
-sudo apt-get update
-```
-![image](https://user-images.githubusercontent.com/114162276/203821696-6aba8508-0a4a-4c4b-bd9a-1411d237090e.png)
-
 ### INSTAL·LEM L'APACHE
 
 Instal·lem l'Apache
@@ -92,6 +75,22 @@ sudo rm  /var/www/html/index.php
 ```
 ![image](https://user-images.githubusercontent.com/114162276/203832217-b8a050ad-3c77-4e36-a7ab-a6219a453cd3.png)
 
+### INSTAL·LACIÓ DEL MOODLE
+
+Anem a la pàgina oficial de Moodle i descarguem l'ultima versió.
+![image](https://user-images.githubusercontent.com/114162276/203820107-1f21f59e-2150-4eb3-aecd-5a6752feb6d8.png)
+
+Posem al terminal la següent comanda per a instal·lar el Moodle 
+```
+wget https://download.moodle.org/download.php/direct/stable400/moodle-latest-400.zip
+```
+![image](https://user-images.githubusercontent.com/114162276/203820522-1ccd1e3d-6afa-4f36-a36b-1da103f67b67.png)
+
+Actualitzem tots els paquets del sistema
+```
+sudo apt-get update
+```
+![image](https://user-images.githubusercontent.com/114162276/203821696-6aba8508-0a4a-4c4b-bd9a-1411d237090e.png)
 
 
 
