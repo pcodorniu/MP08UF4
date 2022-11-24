@@ -1,5 +1,6 @@
 # ACTIVITAT MOODLE 
 
+
 ### INSTAL·LEM L'APACHE
 
 Instal·lem l'Apache
@@ -7,6 +8,7 @@ Instal·lem l'Apache
 sudo apt-get install apache2
 ```
 ![image](https://user-images.githubusercontent.com/114162276/203822015-99774938-b499-48e3-aded-be6a4b4d578b.png)
+
 
 ### INSTAL·LEM EL MARIADB
 
@@ -28,6 +30,7 @@ Posem la següent comanda per a que demani contrasenya als usuaris que intenten 
 sudo mysql -u root -p
 ```
 ![image](https://user-images.githubusercontent.com/114162276/203825097-8483bfc2-0faa-46e4-87f5-9492db216d33.png)
+
 
 ### INSTAL·LAR EL PHP
 
@@ -75,6 +78,7 @@ sudo rm  /var/www/html/index.php
 ```
 ![image](https://user-images.githubusercontent.com/114162276/203832217-b8a050ad-3c77-4e36-a7ab-a6219a453cd3.png)
 
+
 ### INSTAL·LACIÓ DEL MOODLE
 
 Anem a la pàgina oficial de Moodle i descarguem l'ultima versió.
@@ -91,6 +95,37 @@ Actualitzem tots els paquets del sistema
 sudo apt-get update
 ```
 ![image](https://user-images.githubusercontent.com/114162276/203821696-6aba8508-0a4a-4c4b-bd9a-1411d237090e.png)
+
+Descomprimim l'arxiu i el coloquem al directori /var/www/html/
+```
+sudo unzip moodle-latest-38.zip -d /var/www/html/
+```
+![image](https://user-images.githubusercontent.com/114162276/203833266-0743b12e-9365-4469-b1ec-c18ef6ae76c4.png)
+
+Ara canviem els permisos del directori per a que Apache pugui modificar
+```
+sudo chown www-data:www-data /var/www/html/moodle
+```
+![image](https://user-images.githubusercontent.com/114162276/203833769-1ece2c47-8b6a-408c-b3ec-4716169fc530.png)
+
+### CREACIÓ DEL DIRECTORI DE FITXERS
+
+Creem el directori on Moodle guardara els fitxers dels usuaris i canvia els permisos d'aquest per a que pugui accedir Apache.
+```
+cd /home
+sudo mkdir moodledata
+sudo chown www-data:www-data moodledata/
+```
+![image](https://user-images.githubusercontent.com/114162276/203834355-39b051d7-9a6c-4870-8737-76f2af450678.png)
+
+En aquest directori es pujaran els fitxers que estaran als cursos del Moodle
+
+### CONFIGURAR BASE DE DADES
+
+Accedim a la base de dades
+```
+mysql -u root -p
+```
 
 
 
