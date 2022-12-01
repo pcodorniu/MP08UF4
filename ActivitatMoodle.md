@@ -233,10 +233,18 @@ Ens apareixera una missatge de benvinguda i ja estarem dins
 ### SOLUCIÓ D'ERRORS
 
 1- 
+Ens demana l'extencio **zip**
 
+![image](https://user-images.githubusercontent.com/114162276/205076788-e487e10c-302d-46c3-a184-82125a4192f5.png)
 
+Busquem amb la següent comanda els paquets per al zip, i instal·lem el php7.3-zip
+![image](https://user-images.githubusercontent.com/114162276/205078041-d9c8f2eb-d882-43d8-8841-cddee61d31d2.png)
+![image](https://user-images.githubusercontent.com/114162276/205079523-57d7c6db-444c-4610-95e2-a2a501fbbf7b.png)
 
+Reiniciem el servidor apache i ja ho tindrem
 
+![image](https://user-images.githubusercontent.com/114162276/205078780-d5fe5d9a-cdb9-4e92-b245-ef15e21fe06f.png)
 
+2-
 
 
