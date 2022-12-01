@@ -230,7 +230,9 @@ Ens apareixera una missatge de benvinguda i ja estarem dins
 
 ![image](https://user-images.githubusercontent.com/114162276/205096999-321c4dd7-9e63-4d3d-8a5f-4cb65924dfef.png)
 
+### SOLUCIÓ D'ERRORS
 
+1- 
 
 
 
