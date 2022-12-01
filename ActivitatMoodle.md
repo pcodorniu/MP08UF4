@@ -222,8 +222,13 @@ Ara moodle ens demanara configurar l'administrador
 
 ![image](https://user-images.githubusercontent.com/114162276/205095040-8656712a-0e2f-4e64-980f-2d3d7b90b2f8.png)
 
+Una vegada configurat l'administrador ens demanara crea una clase, li posem el nom i una descripció (opcional) i a continuar.
 
+![image](https://user-images.githubusercontent.com/114162276/205096778-c3984e11-981b-413e-a19f-a098ecabde5c.png)
 
+Ens apareixera una missatge de benvinguda i ja estarem dins
+
+![image](https://user-images.githubusercontent.com/114162276/205096999-321c4dd7-9e63-4d3d-8a5f-4cb65924dfef.png)
 
 
 
