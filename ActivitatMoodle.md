@@ -157,18 +157,37 @@ Obrim el navegador i al buscador posem **localhost/moodle** o **IP de la maquina
 Li indiquem l'idioma que volem utilitzar per al nostre moodle, en el meus cas es el Catala
 ![image](https://user-images.githubusercontent.com/114162276/205075628-3e13438b-4d57-426b-a75c-8dbde975a323.png)
 
-El moodle realitzara una comprovació de requisits, en el meu cas em demana una extenció de PHP Zip
+El moodle realitzara una comprovació de requisits, en el meu cas hem demana una extenció de PHP Zip
 ![image](https://user-images.githubusercontent.com/114162276/205076788-e487e10c-302d-46c3-a184-82125a4192f5.png)
 
-Busquem amb la següent comanda els paquets per al zip
+Busquem amb la següent comanda els paquets per al zip, i instal·lem el php7.3-zip
 ![image](https://user-images.githubusercontent.com/114162276/205078041-d9c8f2eb-d882-43d8-8841-cddee61d31d2.png)
+![image](https://user-images.githubusercontent.com/114162276/205079523-57d7c6db-444c-4610-95e2-a2a501fbbf7b.png)
 
+Reiniciem el servidor apache
 
+![image](https://user-images.githubusercontent.com/114162276/205078780-d5fe5d9a-cdb9-4e92-b245-ef15e21fe06f.png)
 
+Ara ens pregunta l'URL de moodle i on esta el directori de moodle li posem el que hem creat anteriorment
+![image](https://user-images.githubusercontent.com/114162276/205080611-76d50120-64de-4e83-813a-c2d28b614904.png)
 
+Ara ens preguntara el controlador de la base de dades que utilitzara, en el nostre cas li indiquem MariaDB que es la que hem instal·lat anteriorment
+![image](https://user-images.githubusercontent.com/114162276/205081187-cde5fcc3-04ca-4fe1-b105-5ccf775e9366.png)
 
+En aquesta pagina ens pregunta la direcció de la base de dades (localhost), el de la base de dades (moodle), el usuari (moodlemanager) i la seva contrasenya (managermoodle), els altres apartats els deixem en blanc
+![image](https://user-images.githubusercontent.com/114162276/205082342-e35c378d-db61-4473-857b-0c45c31ae49e.png)
 
+En el meu cas m'ha aparegut aquest error
+![image](https://user-images.githubusercontent.com/114162276/205084463-1772ca64-9832-43ef-be02-a4533632e489.png)
 
+Utilitzarem la següent comanda per a busca la versió del **mbstring**
+![image](https://user-images.githubusercontent.com/114162276/205084903-e586b6a3-de72-4642-adec-a65a45a4af35.png)
+
+Ara instal·lem l'extensió en la versio 7.3 que es la mateixa que la del PHP
+![image](https://user-images.githubusercontent.com/114162276/205085355-0ba59bb2-6308-401f-b289-6c58ed6f3ba0.png)
+
+Reiniciem el servei apache
+![image](https://user-images.githubusercontent.com/114162276/205086507-219e0fb2-ea3d-435a-ac28-a30f90db32d0.png)
 
 
 
