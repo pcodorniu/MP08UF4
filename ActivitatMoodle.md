@@ -191,13 +191,21 @@ En el meu cas m'ha aparegut aquest error
 ![image](https://user-images.githubusercontent.com/114162276/205084463-1772ca64-9832-43ef-be02-a4533632e489.png)
 
 Utilitzarem la següent comanda per a busca la versió del **mbstring**
+```
+sudo apt search php | grep mbstring
+```
 ![image](https://user-images.githubusercontent.com/114162276/205084903-e586b6a3-de72-4642-adec-a65a45a4af35.png)
 
 Ara instal·lem l'extensió en la versio 7.3 que es la mateixa que la del PHP
+```
+sudo apt install php7.3-mbstring
+```
 ![image](https://user-images.githubusercontent.com/114162276/205085355-0ba59bb2-6308-401f-b289-6c58ed6f3ba0.png)
 
 Reiniciem el servei apache
-
+```
+sudo service apache2 reload
+```
 ![image](https://user-images.githubusercontent.com/114162276/205086507-219e0fb2-ea3d-435a-ac28-a30f90db32d0.png)
 
 Una vegada instal·lada l'extensio ens apareixera que s'ha realitzat l'instal·lacio correctament 
@@ -209,11 +217,15 @@ Ara moodle comprovara si esta tot correcte, en el meu cas hem demana dos extensi
 ![image](https://user-images.githubusercontent.com/114162276/205089603-943d32ba-14a2-41f9-85fe-e9015e7eece3.png)
 
 Primer instal·lem el **xmlrpc**
-
+```
+sudo apt install php7.3-xmlrpc
+```
 ![image](https://user-images.githubusercontent.com/114162276/205090019-3d057d00-0224-4299-95a6-2ae5dcbccc83.png)
 
 I ara el **soap**
-
+```
+sudo apt install php7.3-soap
+```
 ![image](https://user-images.githubusercontent.com/114162276/205090232-51820a03-665f-4b49-8b05-8de7a8c942fa.png)
 
 Reinciem el servidor i podrem veure com ja no ens apareix
@@ -248,11 +260,19 @@ Ens demana l'extencio **zip**
 ![image](https://user-images.githubusercontent.com/114162276/205076788-e487e10c-302d-46c3-a184-82125a4192f5.png)
 
 Busquem amb la següent comanda els paquets per al zip, i instal·lem el php7.3-zip
+```
+sudo apt search php | grep zip
+```
+```
+sudo apt install php7.3-zip
+```
 ![image](https://user-images.githubusercontent.com/114162276/205078041-d9c8f2eb-d882-43d8-8841-cddee61d31d2.png)
 ![image](https://user-images.githubusercontent.com/114162276/205079523-57d7c6db-444c-4610-95e2-a2a501fbbf7b.png)
 
 Reiniciem el servidor apache i ja ho tindrem
-
+```
+sudo service apache2 reload
+```
 ![image](https://user-images.githubusercontent.com/114162276/205078780-d5fe5d9a-cdb9-4e92-b245-ef15e21fe06f.png)
 
 2-
@@ -260,13 +280,21 @@ El segon error que m'ha aparegut es aquest, hem demana l'extensio **mbstring**
 ![image](https://user-images.githubusercontent.com/114162276/205084463-1772ca64-9832-43ef-be02-a4533632e489.png)
 
 Utilitzarem la següent comanda per a busca la versió del **mbstring**
+```
+sudo apt search php | grep mbstring
+```
 ![image](https://user-images.githubusercontent.com/114162276/205084903-e586b6a3-de72-4642-adec-a65a45a4af35.png)
 
 Ara instal·lem l'extensió en la versio 7.3 que es la mateixa que la del PHP
+```
+sudo apt install php7.3-mbstring
+```
 ![image](https://user-images.githubusercontent.com/114162276/205085355-0ba59bb2-6308-401f-b289-6c58ed6f3ba0.png)
 
 Reiniciem el servei apache i ja ho tindrem
-
+```
+sudo service apache2 reload
+```
 ![image](https://user-images.githubusercontent.com/114162276/205086507-219e0fb2-ea3d-435a-ac28-a30f90db32d0.png)
 
 3-
@@ -274,14 +302,20 @@ Ara moodle comprovara si esta tot correcte, en el meu cas hem demana dos extensi
 ![image](https://user-images.githubusercontent.com/114162276/205089603-943d32ba-14a2-41f9-85fe-e9015e7eece3.png)
 
 Primer instal·lem el **xmlrpc**
-
+```
+sudo apt install php7.3-xmlrpc
+```
 ![image](https://user-images.githubusercontent.com/114162276/205090019-3d057d00-0224-4299-95a6-2ae5dcbccc83.png)
 
 I ara el **soap**
-
+```
+sudo apt install php7.3-soap
+```
 ![image](https://user-images.githubusercontent.com/114162276/205090232-51820a03-665f-4b49-8b05-8de7a8c942fa.png)
 
 Reinciem el servidor i podrem veure com ja no ens apareix
-
+```
+sudo service apache2 reload
+```
 ![image](https://user-images.githubusercontent.com/114162276/205090654-ace4151b-1505-45a5-ba0d-4587320da6dc.png)
 
