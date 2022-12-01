@@ -187,8 +187,11 @@ Ara instal·lem l'extensió en la versio 7.3 que es la mateixa que la del PHP
 ![image](https://user-images.githubusercontent.com/114162276/205085355-0ba59bb2-6308-401f-b289-6c58ed6f3ba0.png)
 
 Reiniciem el servei apache
+
 ![image](https://user-images.githubusercontent.com/114162276/205086507-219e0fb2-ea3d-435a-ac28-a30f90db32d0.png)
 
+Una vegada instal·lada l'extensio ens apareixera que s'ha realitzat l'instal·lacio correctament 
+![image](https://user-images.githubusercontent.com/114162276/205088081-d6e41930-82b2-49dc-bfbf-948d5bed6ccc.png)
 
 
 
