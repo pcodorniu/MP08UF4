@@ -214,6 +214,14 @@ Ens apareixen dos errors mes, però el HTTPS no el podem canviar perquè estem u
 
 ![image](https://user-images.githubusercontent.com/114162276/205092621-f981a8d0-c400-429d-84f6-f9f1660a18e9.png)
 
+Ara moodle realitzara una serie d'accions i ens dira que s'han realitzat amb exit
+
+![image](https://user-images.githubusercontent.com/114162276/205093701-3d5e7fe6-c426-43f7-a30c-0730dec246e0.png)
+
+Ara moodle ens demanara configurar l'administrador
+
+![image](https://user-images.githubusercontent.com/114162276/205095040-8656712a-0e2f-4e64-980f-2d3d7b90b2f8.png)
+
 
 
 
