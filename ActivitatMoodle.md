@@ -261,5 +261,18 @@ Reiniciem el servei apache i ja ho tindrem
 ![image](https://user-images.githubusercontent.com/114162276/205086507-219e0fb2-ea3d-435a-ac28-a30f90db32d0.png)
 
 3-
+Ara moodle comprovara si esta tot correcte, en el meu cas hem demana dos extensions **xmlrpc** i **soap**
+![image](https://user-images.githubusercontent.com/114162276/205089603-943d32ba-14a2-41f9-85fe-e9015e7eece3.png)
 
+Primer instal·lem el **xmlrpc**
+
+![image](https://user-images.githubusercontent.com/114162276/205090019-3d057d00-0224-4299-95a6-2ae5dcbccc83.png)
+
+I ara el **soap**
+
+![image](https://user-images.githubusercontent.com/114162276/205090232-51820a03-665f-4b49-8b05-8de7a8c942fa.png)
+
+Reinciem el servidor i podrem veure com ja no ens apareix
+
+![image](https://user-images.githubusercontent.com/114162276/205090654-ace4151b-1505-45a5-ba0d-4587320da6dc.png)
 
