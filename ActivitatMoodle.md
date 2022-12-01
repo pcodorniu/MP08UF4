@@ -154,6 +154,36 @@ FLUSH PRIVILEGES;
 Obrim el navegador i al buscador posem **localhost/moodle** o **IP de la maquina/moodle** i ens apareixera el següent
 ![image](https://user-images.githubusercontent.com/114162276/203846190-2383a429-2eb5-4445-8d09-11121e2bcdd4.png)
 
+Li indiquem l'idioma que volem utilitzar per al nostre moodle, en el meus cas es el Catala
+![image](https://user-images.githubusercontent.com/114162276/205075628-3e13438b-4d57-426b-a75c-8dbde975a323.png)
+
+El moodle realitzara una comprovació de requisits, en el meu cas em demana una extenció de PHP Zip
+![image](https://user-images.githubusercontent.com/114162276/205076788-e487e10c-302d-46c3-a184-82125a4192f5.png)
+
+Busquem amb la següent comanda els paquets per al zip
+![image](https://user-images.githubusercontent.com/114162276/205078041-d9c8f2eb-d882-43d8-8841-cddee61d31d2.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
