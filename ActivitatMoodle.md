@@ -193,10 +193,26 @@ Reiniciem el servei apache
 Una vegada instal·lada l'extensio ens apareixera que s'ha realitzat l'instal·lacio correctament 
 ![image](https://user-images.githubusercontent.com/114162276/205088081-d6e41930-82b2-49dc-bfbf-948d5bed6ccc.png)
 
+### COMPROBRACIÓNS DEL SERVIDOR
 
+Ara moodle comprovara si esta tot correcte, en el meu cas hem demana dos extensions **xmlrpc** i **soap**
+![image](https://user-images.githubusercontent.com/114162276/205089603-943d32ba-14a2-41f9-85fe-e9015e7eece3.png)
 
+Primer instal·lem el **xmlrpc**
 
+![image](https://user-images.githubusercontent.com/114162276/205090019-3d057d00-0224-4299-95a6-2ae5dcbccc83.png)
 
+I ara el **soap**
+
+![image](https://user-images.githubusercontent.com/114162276/205090232-51820a03-665f-4b49-8b05-8de7a8c942fa.png)
+
+Reinciem el servidor i podrem veure com ja no ens apareix
+
+![image](https://user-images.githubusercontent.com/114162276/205090654-ace4151b-1505-45a5-ba0d-4587320da6dc.png)
+
+Ens apareixen dos errors mes, però el HTTPS no el podem canviar perquè estem utilitzan HTTP i l'altre error seria important si hi hagues molts d'usuaris en el nostre curs però sol estarem nosaltres
+
+![image](https://user-images.githubusercontent.com/114162276/205092621-f981a8d0-c400-429d-84f6-f9f1660a18e9.png)
 
 
 
