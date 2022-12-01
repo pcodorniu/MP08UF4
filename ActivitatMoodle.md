@@ -178,6 +178,7 @@ En aquesta pagina ens pregunta la direcció de la base de dades (localhost), el 
 ![image](https://user-images.githubusercontent.com/114162276/205082342-e35c378d-db61-4473-857b-0c45c31ae49e.png)
 
 En el meu cas m'ha aparegut aquest error
+
 ![image](https://user-images.githubusercontent.com/114162276/205084463-1772ca64-9832-43ef-be02-a4533632e489.png)
 
 Utilitzarem la següent comanda per a busca la versió del **mbstring**
@@ -246,5 +247,19 @@ Reiniciem el servidor apache i ja ho tindrem
 ![image](https://user-images.githubusercontent.com/114162276/205078780-d5fe5d9a-cdb9-4e92-b245-ef15e21fe06f.png)
 
 2-
+El segon error que m'ha aparegut es aquest, hem demana l'extensio **mbstring**
+![image](https://user-images.githubusercontent.com/114162276/205084463-1772ca64-9832-43ef-be02-a4533632e489.png)
+
+Utilitzarem la següent comanda per a busca la versió del **mbstring**
+![image](https://user-images.githubusercontent.com/114162276/205084903-e586b6a3-de72-4642-adec-a65a45a4af35.png)
+
+Ara instal·lem l'extensió en la versio 7.3 que es la mateixa que la del PHP
+![image](https://user-images.githubusercontent.com/114162276/205085355-0ba59bb2-6308-401f-b289-6c58ed6f3ba0.png)
+
+Reiniciem el servei apache i ja ho tindrem
+
+![image](https://user-images.githubusercontent.com/114162276/205086507-219e0fb2-ea3d-435a-ac28-a30f90db32d0.png)
+
+3-
 
 
