@@ -31,8 +31,15 @@ Ara creem els grups del 1r curs de **CFGM SMX**
 ![image](https://user-images.githubusercontent.com/114162276/207902033-cd43348b-9a5b-4c5d-8837-2c9c6cb25da0.png)
 ![image](https://user-images.githubusercontent.com/114162276/207902234-035ab790-5ce8-41c4-810b-9147afd156e7.png)
 
+Ara creem els grups del 2n curs de **CFGM SMX**
 
+![image](https://user-images.githubusercontent.com/114162276/207904367-395e7b8d-4b60-477d-8c11-da544554a361.png)
+![image](https://user-images.githubusercontent.com/114162276/207904466-dca3beae-9a52-4e7e-90de-76025c9268b7.png)
 
+Per ultim últim creem les ds subcategories que hi ha al 2n curs de **CFGS ASIX/DAM**
+
+![image](https://user-images.githubusercontent.com/114162276/207904935-bddeb4d3-d64c-4c18-9607-e64c113cd295.png)
+![image](https://user-images.githubusercontent.com/114162276/207905025-d10a9e84-400d-410f-84ff-a4ffa949379f.png)
 
 
 
