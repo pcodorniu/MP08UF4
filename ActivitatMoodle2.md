@@ -41,6 +41,9 @@ Per ultim últim creem les ds subcategories que hi ha al 2n curs de **CFGS ASIX/
 ![image](https://user-images.githubusercontent.com/114162276/207904935-bddeb4d3-d64c-4c18-9607-e64c113cd295.png)
 ![image](https://user-images.githubusercontent.com/114162276/207905025-d10a9e84-400d-410f-84ff-a4ffa949379f.png)
 
+Aqui podem veure com s'han creat tots els cursos correctament
+
+![image](https://user-images.githubusercontent.com/114162276/207905869-aa75d4f9-ae08-4cd6-a270-cb6b788f585e.png)
 
 
 
