@@ -29,6 +29,11 @@ Dins de Moodle hi ha diferents tipus d'usuaris:
 -Usuari autenticat a la primera planta: tots els usuaris i usuàries amb sessió iniciada al curs de la primera pàgina
 
 2. Quins rols poden assignar cada tipus d'usuaris?
+
+-Gestor: pots assignar rols a tothom menys al visitant, usuari autenticat i usuari autentica a la primera plana
+
+-Professor: sol pot assignar rols al professor no editor i estudiant
+
 3. Crea tres usuaris:
   - Un Professor anomenat Cognom_1_profe.
   - Un Professor anomenat Cognom_2_profe.
