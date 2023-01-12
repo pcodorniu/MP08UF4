@@ -2,6 +2,10 @@
 
 Mostra els cursos i categories creades a l'apartat anterior.
 
+![image](https://user-images.githubusercontent.com/114162276/212097162-54280418-f24b-4028-baa6-aa4d952cecc3.png)
+
+![image](https://user-images.githubusercontent.com/114162276/212097438-fe207437-bc70-443c-a428-f1c7871a8efe.png)
+
 # Usuaris:
 
 Dins de Moodle hi ha diferents tipus d'usuaris:
