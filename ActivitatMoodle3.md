@@ -11,6 +11,7 @@ Mostra els cursos i categories creades a l'apartat anterior.
 Dins de Moodle hi ha diferents tipus d'usuaris:
 
 1. Quins tipus d'usuaris (rols diferents) existeixen a Moodle?
+
 -Gestor: poden accedir als cursos i modificar-los, però normalment no hi participen
 -Creador de cursos: poden crear nous cursos
 -Professors: poden fer qualsevol cosa dins d'un curs, i això inclou fer canvis a les activitats i qualificar els estudiants
