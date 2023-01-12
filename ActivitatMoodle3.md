@@ -63,8 +63,7 @@ Copiem el fitxer i canviem els parametres
 
 ![image](https://user-images.githubusercontent.com/114162276/212113432-93e67e65-0efe-489f-aedf-fc9ba9f2d39a.png)
 
-![image](https://user-images.githubusercontent.com/114162276/212113616-64750211-d177-4e65-8297-7766b7476d40.png)
-
+![image](https://user-images.githubusercontent.com/114162276/212116145-39e4c61f-1c14-48d9-a9f1-01fa77e96315.png)
 
 6. Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.
 7. Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
