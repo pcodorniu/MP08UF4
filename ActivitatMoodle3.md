@@ -37,7 +37,7 @@ Dins de Moodle hi ha diferents tipus d'usuaris:
 3. Crea tres usuaris:
   - Un Professor anomenat Cognom_1_profe.
 
-![image](https://user-images.githubusercontent.com/114162276/212105211-4c8d21bb-529a-48dd-aa2b-42a3ba2b8462.png)
+![image](https://user-images.githubusercontent.com/114162276/212105434-37d9e805-b5dc-4cac-9e56-bbdd565a6b21.png)
 
   - Un Professor anomenat Cognom_2_profe.
   - Un professor No editor anomenat Cognom_3_profe.
