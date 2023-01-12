@@ -57,7 +57,7 @@ Dins de Moodle hi ha diferents tipus d'usuaris:
 
 Copiem el fitxer i canviem els parametres
 
-![image](https://user-images.githubusercontent.com/114162276/212113305-4cb70e92-e979-4680-9b29-23de146e2810.png)
+![image](https://user-images.githubusercontent.com/114162276/212115508-5addc053-4938-485b-bf00-aa689590e7d7.png)
 
 ![image](https://user-images.githubusercontent.com/114162276/212113249-033c7ebe-1934-46d9-9f38-e7180a2853db.png)
 
