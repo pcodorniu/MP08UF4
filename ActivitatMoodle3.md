@@ -102,6 +102,21 @@ Copiem el fitxer i canviem els parametres
 ![image](https://user-images.githubusercontent.com/114162276/213234336-419220db-ed7d-40b0-9f4d-ed5b9610ca21.png)
 
 9. Afegeix a tots els alumnes a tots els cursos (els 5).
+
+![image](https://user-images.githubusercontent.com/114162276/213236632-85f88017-9da7-4588-9996-72da85f745e3.png)
+
+![image](https://user-images.githubusercontent.com/114162276/213236968-7559e304-3bc7-49fd-86f1-87e9dc7de184.png)
+
+![image](https://user-images.githubusercontent.com/114162276/213237313-90a2c250-93c5-4534-b25a-78fdfe9ea104.png)
+
+![image](https://user-images.githubusercontent.com/114162276/213237590-844f22b3-600f-48b4-a4fa-e6e6cd54afc3.png)
+
+![image](https://user-images.githubusercontent.com/114162276/213237997-eb962a12-0cb4-4193-82ef-e21a9a3eae20.png)
+
+![image](https://user-images.githubusercontent.com/114162276/213238239-92a59004-b424-4958-982b-d6f38665afe9.png)
+
+![image](https://user-images.githubusercontent.com/114162276/213238620-f7777f17-7a53-4b29-beb1-f1fcc8d9287a.png)
+
 10. Mostra l'apartat Participants de cada curs.
 11. Què són les Cohorts? 
 12. Perquè serveixen?
