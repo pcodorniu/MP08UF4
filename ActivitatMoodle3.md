@@ -134,7 +134,14 @@ Copiem el fitxer i canviem els parametres
 ![image](https://user-images.githubusercontent.com/114162276/213261370-c9d1d59e-a39c-4bb9-855a-0fd939c59f3a.png)
 
 11. Què són les Cohorts? 
+
+Les cohorts de Moodle són una manera de gestionar grups d'usuaris en un curs Moodle. Una cohort és un grup d'usuaris que comparteixen un mateix conjunt d'inscripcions en un curs o en múltiples cursos. 
+
 12. Perquè serveixen?
+
+Les cohorts de Moodle serveixen per fer la gestió d'usuaris en cursos més fàcil i eficient.
+Les cohorts són útils per a entorns d'aprenentatge en línia amb molts usuaris i cursos, ja que permeten als administradors i professors gestionar i comunicar amb els estudiants de manera eficient.
+
 13. Què són els grups?
 14. Perquè serveixen?
 15. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
