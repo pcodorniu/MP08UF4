@@ -68,12 +68,15 @@ Copiem el fitxer i canviem els parametres
 ![image](https://user-images.githubusercontent.com/114162276/212116425-26529075-cfc5-450f-a7a4-cc96bebcf0aa.png)
 
 6. Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.
-7. Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
-8. Fes que Cognom_3_profe sigui professor de tots els cursos.
-9. Afegeix a tots els alumnes a tots els cursos (els 5).
-10. Mostra l'apartat Participants de cada curs.
-11. Què són les Cohorts? 
-12. Perquè serveixen?
-13. Què són els grups?
-14. Perquè serveixen?
-15. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
+
+![image](https://user-images.githubusercontent.com/114162276/213225329-437202e1-f8ed-4c47-87e9-91957612f953.png)
+
+8. Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
+9. Fes que Cognom_3_profe sigui professor de tots els cursos.
+10. Afegeix a tots els alumnes a tots els cursos (els 5).
+11. Mostra l'apartat Participants de cada curs.
+12. Què són les Cohorts? 
+13. Perquè serveixen?
+14. Què són els grups?
+15. Perquè serveixen?
+16. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
