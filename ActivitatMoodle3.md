@@ -143,5 +143,15 @@ Les cohorts de Moodle serveixen per fer la gestió d'usuaris en cursos més fàc
 Les cohorts són útils per a entorns d'aprenentatge en línia amb molts usuaris i cursos, ja que permeten als administradors i professors gestionar i comunicar amb els estudiants de manera eficient.
 
 13. Què són els grups?
+
+Els grups de Moodle són una característica que permet als professors dividir els estudiants d'un curs en grups més petits per a tasques o activitats específiques.
+
 14. Perquè serveixen?
+
+Els grups de Moodle permeten als professors assignar diferents notes o puntuacions a cada grup, i fer un seguiment de les activitats i les puntuacions dels estudiants dins del grup.
+
 15. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
+
+
+
+
