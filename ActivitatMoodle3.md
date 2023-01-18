@@ -125,6 +125,7 @@ Copiem el fitxer i canviem els parametres
 
 ![image](https://user-images.githubusercontent.com/114162276/213239423-afcd210d-b4aa-4730-b65b-e773d63d673b.png)
 
+![image](https://user-images.githubusercontent.com/114162276/213245349-61a8b59c-e363-47aa-a417-bd18ff6d7d23.png)
 
 
 11. Què són les Cohorts? 
