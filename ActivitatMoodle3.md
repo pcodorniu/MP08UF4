@@ -118,6 +118,15 @@ Copiem el fitxer i canviem els parametres
 ![image](https://user-images.githubusercontent.com/114162276/213238620-f7777f17-7a53-4b29-beb1-f1fcc8d9287a.png)
 
 10. Mostra l'apartat Participants de cada curs.
+
+![image](https://user-images.githubusercontent.com/114162276/213239035-2424ad6d-25bb-4521-825d-ecd85be59ffa.png)
+
+![image](https://user-images.githubusercontent.com/114162276/213239251-04509dd9-55c6-4b23-b488-8f464de10a0f.png)
+
+![image](https://user-images.githubusercontent.com/114162276/213239423-afcd210d-b4aa-4730-b65b-e773d63d673b.png)
+
+
+
 11. Què són les Cohorts? 
 12. Perquè serveixen?
 13. Què són els grups?
