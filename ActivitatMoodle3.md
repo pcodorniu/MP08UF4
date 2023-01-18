@@ -87,7 +87,19 @@ Copiem el fitxer i canviem els parametres
 
 8. Fes que Cognom_3_profe sigui professor de tots els cursos.
 
+![image](https://user-images.githubusercontent.com/114162276/213232769-9427bc9b-00d1-4701-b015-0330951a4081.png)
 
+![image](https://user-images.githubusercontent.com/114162276/213233005-64d3cce5-5986-401b-9e58-f916486c534e.png)
+
+![image](https://user-images.githubusercontent.com/114162276/213233338-13a8e807-7648-42d6-b28b-c18c14614134.png)
+
+![image](https://user-images.githubusercontent.com/114162276/213233667-0fe0cc21-81ff-4ee5-93d0-626258a69c21.png)
+
+![image](https://user-images.githubusercontent.com/114162276/213233921-5fd0a9da-4afb-46a1-bcf5-c35f405ebbcd.png)
+
+![image](https://user-images.githubusercontent.com/114162276/213234117-87c8c871-565e-4151-97a0-7ea329b31cb3.png)
+
+![image](https://user-images.githubusercontent.com/114162276/213234336-419220db-ed7d-40b0-9f4d-ed5b9610ca21.png)
 
 9. Afegeix a tots els alumnes a tots els cursos (els 5).
 10. Mostra l'apartat Participants de cada curs.
