@@ -60,14 +60,28 @@
 
 - Contesta les preguntes amb un perfil de professor.
 
+![image](https://user-images.githubusercontent.com/114162276/213479301-70e80606-9bc2-4839-bd30-9eab8830bc66.png)
 
-
-
+![image](https://user-images.githubusercontent.com/114162276/213479485-5c37c2a0-441f-4dd5-b0cc-4290ec7869a5.png)
 
 - Crea un tema anomenat "Fonaments de Python".
+
+![image](https://user-images.githubusercontent.com/114162276/213480499-591f4b0e-8b79-48b7-ad1b-028040a050c6.png)
+
 - Oculta la resta de temes del curs.
+
+![image](https://user-images.githubusercontent.com/114162276/213480654-85576d21-622c-4051-b858-dc04cf1ea9bb.png)
+
 - Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python. Pots trobar info [aqui](https://www.w3schools.com/python/).
+
+![image](https://user-images.githubusercontent.com/114162276/213481772-441480fb-4261-460a-84aa-5ba1c49d4bd9.png)
+
+![image](https://user-images.githubusercontent.com/114162276/213481872-37d1056d-45e4-407c-a715-cd28abfebbce.png)
+
 - Fes que els alumnes contestin la tasca (mínim 3).
+
+
+
 - Qualifica la tasca de l'alumnat.
 - Mostra les qualificacions de l'alumnat.
 - Com a perfil d'alumne mostra la teva qualificació.
