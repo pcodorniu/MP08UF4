@@ -152,6 +152,5 @@ Els grups de Moodle permeten als professors assignar diferents notes o puntuacio
 
 15. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
 
-
-
+![image](https://user-images.githubusercontent.com/114162276/213472319-b6f9f6f1-6d04-4580-a43c-f762aac022e0.png)
 
