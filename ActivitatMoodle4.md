@@ -30,13 +30,22 @@
 
 - Fes que només els contactes de l'usuari puguin enviar-li missatges.
 
-
+![image](https://user-images.githubusercontent.com/114162276/213470192-5cc96bac-f011-454e-a405-a6aa14de3505.png)
 
 # Cursos:
 
 - Crea un Curs nou anomenat "Programació amb Python" dins de la categoria 2n curs -> DAM.
+
+![image](https://user-images.githubusercontent.com/114162276/213471014-3e3bf658-34ed-4d95-9359-0801b1833a4d.png)
+
 - Inscriu a tots els alumnes al curs.
+
+![image](https://user-images.githubusercontent.com/114162276/213471350-44965c85-d486-4813-988e-f343c5097d38.png)
+
 - Inscriu a tots els professors al curs.
+
+![image](https://user-images.githubusercontent.com/114162276/213471620-5d257a36-3e32-4ab8-afda-de784e2b2676.png)
+
 - Crea un fòrum general de dubtes (el d'anuncis no serveix).
 - Fes que dos estudiants fassin consultes al fòrum.
 - Contesta les preguntes amb un perfil de professor.
