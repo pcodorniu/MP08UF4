@@ -74,16 +74,20 @@
 
 - Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python. Pots trobar info [aqui](https://www.w3schools.com/python/).
 
-![image](https://user-images.githubusercontent.com/114162276/213481772-441480fb-4261-460a-84aa-5ba1c49d4bd9.png)
-
-![image](https://user-images.githubusercontent.com/114162276/213481872-37d1056d-45e4-407c-a715-cd28abfebbce.png)
+![image](https://user-images.githubusercontent.com/114162276/213485154-4e6d61af-4ed9-4a94-acbe-e796a320c3fc.png)
 
 - Fes que els alumnes contestin la tasca (mínim 3).
 
-
+![image](https://user-images.githubusercontent.com/114162276/213486537-bc3169db-7dcb-4176-bfd5-47d353dc8bdb.png)
 
 - Qualifica la tasca de l'alumnat.
+
+![image](https://user-images.githubusercontent.com/114162276/213487493-95aa57cb-da72-42e3-b35e-3b9f238fa7fd.png)
+
 - Mostra les qualificacions de l'alumnat.
+
+![image](https://user-images.githubusercontent.com/114162276/213487391-91d36d5c-2c30-4ff2-a69a-3e2113958526.png)
+
 - Com a perfil d'alumne mostra la teva qualificació.
 - Crea una activitat de consulta amb una pregunta sobre què costa més a l'alumnat sobre el tema del curs amb 4 opcions.
 - Com a alumne/a contesta la consulta.
