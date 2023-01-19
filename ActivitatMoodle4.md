@@ -54,9 +54,13 @@
 
 - Fes que dos estudiants fassin consultes al fòrum.
 
-![image](https://user-images.githubusercontent.com/114162276/213477077-bd2ce502-7b6e-42cb-9141-f83877de3b17.png)
+![image](https://user-images.githubusercontent.com/114162276/213478765-d1928a24-5338-4c1a-994e-b177ea7e3bbe.png)
+
+![image](https://user-images.githubusercontent.com/114162276/213478886-8bae585c-1edd-42ac-8837-b1aabd082820.png)
 
 - Contesta les preguntes amb un perfil de professor.
+
+
 
 
 
