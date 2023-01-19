@@ -54,8 +54,12 @@
 
 - Fes que dos estudiants fassin consultes al fòrum.
 
+![image](https://user-images.githubusercontent.com/114162276/213477077-bd2ce502-7b6e-42cb-9141-f83877de3b17.png)
 
 - Contesta les preguntes amb un perfil de professor.
+
+
+
 - Crea un tema anomenat "Fonaments de Python".
 - Oculta la resta de temes del curs.
 - Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python. Pots trobar info [aqui](https://www.w3schools.com/python/).
