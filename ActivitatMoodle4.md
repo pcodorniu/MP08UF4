@@ -84,6 +84,14 @@
 
 ![image](https://user-images.githubusercontent.com/114162276/213487493-95aa57cb-da72-42e3-b35e-3b9f238fa7fd.png)
 
+![image](https://user-images.githubusercontent.com/114162276/213487818-1c37d0b4-5ed4-436b-96ed-12e12ec5ea7e.png)
+
+![image](https://user-images.githubusercontent.com/114162276/213487900-45fc5dba-1743-48cd-b5f4-eaf830318dc6.png)
+
+![image](https://user-images.githubusercontent.com/114162276/213487961-446801fa-e9b9-4029-abab-e8c12a2ea74f.png)
+
+![image](https://user-images.githubusercontent.com/114162276/213488023-cf9a43b6-600e-4835-a8d8-c9a4f18e8290.png)
+
 - Mostra les qualificacions de l'alumnat.
 
 ![image](https://user-images.githubusercontent.com/114162276/213487391-91d36d5c-2c30-4ff2-a69a-3e2113958526.png)
