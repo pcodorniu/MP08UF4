@@ -97,9 +97,20 @@
 ![image](https://user-images.githubusercontent.com/114162276/213487391-91d36d5c-2c30-4ff2-a69a-3e2113958526.png)
 
 - Com a perfil d'alumne mostra la teva qualificació.
+
+![image](https://user-images.githubusercontent.com/114162276/213488427-f456a29a-7749-46c3-b18b-24e6434bf5c3.png)
+
 - Crea una activitat de consulta amb una pregunta sobre què costa més a l'alumnat sobre el tema del curs amb 4 opcions.
+
+![image](https://user-images.githubusercontent.com/114162276/213489990-1a19cb3d-1fe4-4a3c-a35c-1fedb3e6b898.png)
+
 - Com a alumne/a contesta la consulta.
+
+![image](https://user-images.githubusercontent.com/114162276/213490454-8b894e1f-f8f4-47c8-a570-dbd6217c54b7.png)
+
 - Com a professor mostra les contestacions de la consulta.
+
+![image](https://user-images.githubusercontent.com/114162276/213490605-6aa390fd-bb57-4226-92ab-23627412903d.png)
 
 # Seguretat del lloc:
 
