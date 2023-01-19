@@ -47,6 +47,9 @@
 ![image](https://user-images.githubusercontent.com/114162276/213471620-5d257a36-3e32-4ab8-afda-de784e2b2676.png)
 
 - Crea un fòrum general de dubtes (el d'anuncis no serveix).
+
+
+
 - Fes que dos estudiants fassin consultes al fòrum.
 - Contesta les preguntes amb un perfil de professor.
 - Crea un tema anomenat "Fonaments de Python".
