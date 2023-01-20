@@ -138,7 +138,7 @@ Dash: El Dash és un connector de blocs per a Moodle que permet als administrado
 
 ![image](https://user-images.githubusercontent.com/114162276/213728309-3459519b-73b1-4045-8a3e-6f27ec9786c4.png)
 
-Moodle Benchmark: el pots utilitzar per a comprobar la velocitat
+Moodle Benchmark: el pots utilitzar per a comprobar la velocitat del servidor, processador, etc.
 
 # Personalització del tauler d'usuaris:
 
@@ -147,7 +147,12 @@ Moodle Benchmark: el pots utilitzar per a comprobar la velocitat
 Canvia el tauler d'usuaris.
 
 - Afegeix a dalt de tot "Cursos visitats recentment".
+
+![image](https://user-images.githubusercontent.com/114162276/213739753-35f18804-c868-4387-aca9-21ad11063278.png)
+
 - Afegeix a baix de tot "Usuaris en línia".
+
+![image](https://user-images.githubusercontent.com/114162276/213740435-e54c0f47-086a-4b9f-ab69-b14b130b7b4c.png)
 
 # Canvia el tema del Moodle:
 
