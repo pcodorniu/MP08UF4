@@ -136,11 +136,9 @@
 
 Dash: El Dash és un connector de blocs per a Moodle que permet als administradors del lloc afegir contingut dinàmic al seu lloc Moodle
 
-![image](https://user-images.githubusercontent.com/114162276/213724493-337fa2d9-3aab-44d9-8a1d-585860256fcc.png)
+![image](https://user-images.githubusercontent.com/114162276/213728309-3459519b-73b1-4045-8a3e-6f27ec9786c4.png)
 
 Moodle Benchmark: el pots utilitzar per a comprobar la velocitat
-
-![image](https://user-images.githubusercontent.com/114162276/213728309-3459519b-73b1-4045-8a3e-6f27ec9786c4.png)
 
 # Personalització del tauler d'usuaris:
 
