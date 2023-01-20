@@ -140,6 +140,10 @@ Dash: El Dash és un connector de blocs per a Moodle que permet als administrado
 
 Moodle Benchmark: el pots utilitzar per a comprobar la velocitat del servidor, processador, etc.
 
+Aqui podem veure com estan els dos plugins instal·Lats
+
+![image](https://user-images.githubusercontent.com/114162276/213741389-a81bc19f-5c89-4ed3-93df-309d3d7147bb.png)
+
 # Personalització del tauler d'usuaris:
 
 ![image](https://user-images.githubusercontent.com/110727546/207088651-6131a2b1-20c7-4a9f-b50a-317295ce70f1.png)
