@@ -118,14 +118,29 @@
 
 
 - Bloca una adreça IP d'un company per a que no pugui accedir al moodle i mostra-ho. VIGILA: Fica una adreça IP sencera si no bloquejaràs tota la xarxa, si us passa podeu arreglar-ho [així](https://moodle.org/mod/forum/discuss.php?d=323745).
+
+![image](https://user-images.githubusercontent.com/114162276/213722172-7e0c5a17-858d-4d64-ac65-290ebd8dcc4f.png)
+
 - Canvia els paràmetres de les contrasenyes d'usuari per a que les contrasenyes:
   - Tinguin mínim 10 caràcters.
   - Tinguin 2 dígits.
   - Tinguin 3 maiúscules.
 
+![image](https://user-images.githubusercontent.com/114162276/213722697-0b98b1cd-e1d4-4ccc-809b-e37f6599d4dc.png)
+
 # Plugins:
 
 - Instal·la 2 [plugins](https://moodle.org/plugins/) de Moodle i explica què fan.
+
+![image](https://user-images.githubusercontent.com/114162276/213724001-79ed4ee2-04ed-4c46-b5c1-2f234d394e70.png)
+
+Dash: El Dash és un connector de blocs per a Moodle que permet als administradors del lloc afegir contingut dinàmic al seu lloc Moodle
+
+![image](https://user-images.githubusercontent.com/114162276/213724493-337fa2d9-3aab-44d9-8a1d-585860256fcc.png)
+
+Moodle Benchmark: el pots utilitzar per a comprobar la velocitat
+
+![image](https://user-images.githubusercontent.com/114162276/213728309-3459519b-73b1-4045-8a3e-6f27ec9786c4.png)
 
 # Personalització del tauler d'usuaris:
 
