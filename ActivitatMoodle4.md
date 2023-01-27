@@ -164,3 +164,12 @@ Vigila que sigui un tema suportat per la teva versió de Moodle:
 
 [Pàgina amb temes.](https://moodle.org/plugins/browse.php?list=category&id=3)
 [Com canviar el tema.](https://docs.moodle.org/24/en/Installing_a_new_theme)
+
+Aqui tenim dos temes seleccionem el "Classic"
+
+![image](https://user-images.githubusercontent.com/114162276/215115296-4f8b0c58-8b0f-461a-81ed-29e2c6b44fc4.png)
+
+Aixi es veu el nou tema
+
+![image](https://user-images.githubusercontent.com/114162276/215115593-590c86f5-5157-41fa-a0ba-41981ef4d88b.png)
+
