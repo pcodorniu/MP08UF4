@@ -81,6 +81,8 @@ L'activitat, que realitzareu per parelles, es divideix en dues pràctiques difer
 - Aquest procés serà recíproc entre els dos companys/es de grup.
 - Fareu un vídeo explicant el procés i mostrant el resultat de com a màxim 6 minuts.
 
+https://youtu.be/oKRnQsAI1mc
+
 ## A2 - Migració de Moodle:
 
 - Per aquesta pràctica necessitareu un servidor ubuntu net que serà el receptor del Moodle.
